@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * _strcat - cpncatenate two strings
+ * _strcat - concatenate two strings
  * @dest: char string to concatenate to
  * @src: char string
  * Return: pointer to resulting string `dest`
