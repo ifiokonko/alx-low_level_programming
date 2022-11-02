@@ -1,1 +1,1 @@
-this repo contains the following tasks on more pointers, rrays and strings
+0x07 even more pointers, arrays and strings
