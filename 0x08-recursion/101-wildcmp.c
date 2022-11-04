@@ -1,8 +1,5 @@
 #include "main.h"
-/**
- * wildcmp -  compare two strings if identical or not.
- * @s1: char type
-#include "main.h"
+
 /**
  * wildcmp -  compare two strings if identical or not.
  * @s1: char type
